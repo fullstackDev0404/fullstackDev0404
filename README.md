@@ -1,9 +1,9 @@
 <h1 align="center">
-  ☺️ Joana Kelly ☺️
+  Joana Kelly
 </h1>
 
 <h3 align="center">
-  Senior Full-Stack Engineer
+  Backend Focused Full-Stack Engineer | React / Node.js / TypeScript / Java / AWS | SaaS Platform / e-Commerce
 </h3>
 
 <p align="center">
