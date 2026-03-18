@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Backend Focused Full-Stack Engineer | React / Node.js / TypeScript / Java / AWS | SaaS Platform / e-Commerce
+  Backend Focused Full-Stack Engineer | React / Node.js / Java / AWS | SaaS Platform
 </h3>
 
 <p align="center">
