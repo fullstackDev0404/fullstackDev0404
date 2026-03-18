@@ -28,10 +28,10 @@ I focus on clean architecture, long-term maintainability, and business impact �
 ## Core Stack
 
 ### Backend
-Node.js • Express • Laravel • REST APIs • System Design
+Node.js • Express • Laravel • Java • Python • Spring Boot • REST APIs • System Design
 
 ### Frontend
-React • Next.js • TypeScript • Scalable UI Architecture
+React • Next.js • TypeScript • Vue • Scalable UI Architecture
 
 ### Data
 PostgreSQL • MySQL • MongoDB
