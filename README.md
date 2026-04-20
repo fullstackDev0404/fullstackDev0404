@@ -1,7 +1,3 @@
-<h1 align="center">
-  Joana Kelly
-</h1>
-
 <h3 align="center">
   Backend Focused Full-Stack Engineer | React / Node.js / Java / AWS | SaaS Platform
 </h3>
